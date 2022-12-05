@@ -62,7 +62,7 @@ main{
     justify-content: center;
     align-items: center;
     flex: 1 1200px;
-    background-image: url("images/img-mission-background.jpg");
+    background-image: url("img-mission-background.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -134,7 +134,7 @@ figcaption{
     align-items: center;
     display: flex;
     flex: 1 1200px;
-    background-image: url("images/img-locations-background.jpg");
+    background-image: url("img-locations-background.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
